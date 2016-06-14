@@ -29,5 +29,10 @@
   },
   "keywords": [
     "credit card"
-  ]
+  ],
+  "browserify": {
+    "transform": [
+      "babelify"
+    ]
+  }
 }
