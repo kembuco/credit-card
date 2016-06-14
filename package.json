@@ -20,7 +20,7 @@
     "node": ">=4.0.0"
   },
   "dependencies": {
-    "reach": "1.x.x"
+    "reach": "kembuco/reach"
   },
   "devDependencies": {
     "belly-button": "1.x.x",
